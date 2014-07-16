@@ -29,7 +29,7 @@ Usage
 
 ```sh
 ./bin/phpunit
-``
+```
 
 License
 -------
